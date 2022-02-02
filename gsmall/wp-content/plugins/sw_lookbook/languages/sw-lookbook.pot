@@ -1,0 +1,317 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Sw LookBook\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: contact@wpthemego.com\n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_attr__;esc_html_e;esc_attr_e;esc_attr_x;_n:1,2;_x:1,2c\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/admin_list_lookbook.php:84
+msgid "No lookbook available."
+msgstr ""
+
+#: admin/admin_list_lookbook.php:116 admin/admin_list_lookbook.php:281
+#: admin/admin_lookbook_config.php:133 admin/admin_lookbook_config.php:151
+#: admin/admin_lookbook_config.php:460
+msgid "Delete"
+msgstr ""
+
+#: admin/admin_list_lookbook.php:168 admin/admin_lookbook_config.php:143
+msgid "on"
+msgstr ""
+
+#: admin/admin_list_lookbook.php:171 admin/admin_lookbook_config.php:146
+msgid "off"
+msgstr ""
+
+#: admin/admin_list_lookbook.php:178 admin/admin_list_lookbook.php:228
+#: admin/admin_lookbook_config.php:132 admin/admin_lookbook_config.php:150
+msgid "Edit"
+msgstr ""
+
+#: admin/admin_list_lookbook.php:220
+msgid "ID"
+msgstr ""
+
+#: admin/admin_list_lookbook.php:222 admin/admin_lookbook_config.php:130
+#: admin/admin_lookbook_config.php:308
+msgid "Name"
+msgstr ""
+
+#: admin/admin_list_lookbook.php:224 admin/admin_lookbook_config.php:307
+msgid "Image"
+msgstr ""
+
+#: admin/admin_list_lookbook.php:226 admin/admin_lookbook_config.php:131
+#: admin/admin_lookbook_config.php:287 admin/admin_lookbook_config.php:435
+#: admin/admin_lookbook_config.php:549
+msgid "Status"
+msgstr ""
+
+#: admin/admin_lookbook_config.php:24 admin/admin_lookbook_config.php:25
+msgid "SW LookBook"
+msgstr ""
+
+#: admin/admin_lookbook_config.php:33 admin/admin_lookbook_config.php:34
+msgid "Manager Slider"
+msgstr ""
+
+#: admin/admin_lookbook_config.php:42 admin/admin_lookbook_config.php:43
+#: admin/admin_lookbook_config.php:125
+msgid "Add Slider"
+msgstr ""
+
+#: admin/admin_lookbook_config.php:51 admin/admin_lookbook_config.php:52
+msgid "Manager LookBook"
+msgstr ""
+
+#: admin/admin_lookbook_config.php:60 admin/admin_lookbook_config.php:61
+#: admin/admin_lookbook_config.php:346
+msgid "Add LookBook"
+msgstr ""
+
+#: admin/admin_lookbook_config.php:87
+msgid "Lookbook"
+msgstr ""
+
+#: admin/admin_lookbook_config.php:129 admin/admin_lookbook_config.php:306
+msgid "Id"
+msgstr ""
+
+#: admin/admin_lookbook_config.php:200 admin/admin_lookbook_config.php:527
+msgid "SW LookBook Configuration"
+msgstr ""
+
+#: admin/admin_lookbook_config.php:209
+msgid "General Information"
+msgstr ""
+
+#: admin/admin_lookbook_config.php:212
+msgid "Slides"
+msgstr ""
+
+#: admin/admin_lookbook_config.php:222
+msgid "Slide Name"
+msgstr ""
+
+#: admin/admin_lookbook_config.php:230
+msgid "Custom Class"
+msgstr ""
+
+#: admin/admin_lookbook_config.php:238 admin/admin_lookbook_config.php:677
+msgid "Show navigation"
+msgstr ""
+
+#: admin/admin_lookbook_config.php:246 admin/admin_lookbook_config.php:685
+msgid "Show pagination"
+msgstr ""
+
+#: admin/admin_lookbook_config.php:254 admin/admin_lookbook_config.php:693
+msgid "Autoplay"
+msgstr ""
+
+#: admin/admin_lookbook_config.php:262 admin/admin_lookbook_config.php:701
+msgid "Autoplay interval timeout"
+msgstr ""
+
+#: admin/admin_lookbook_config.php:265
+msgid "Blank to use general config"
+msgstr ""
+
+#: admin/admin_lookbook_config.php:266 admin/admin_lookbook_config.php:705
+msgid "ms"
+msgstr ""
+
+#: admin/admin_lookbook_config.php:271 admin/admin_lookbook_config.php:710
+msgid "Pause on mouse hover"
+msgstr ""
+
+#: admin/admin_lookbook_config.php:279 admin/admin_lookbook_config.php:718
+msgid "Infinity loop"
+msgstr ""
+
+#: admin/admin_lookbook_config.php:290 admin/admin_lookbook_config.php:438
+#: admin/admin_lookbook_config.php:552
+msgid "Enabled"
+msgstr ""
+
+#: admin/admin_lookbook_config.php:291 admin/admin_lookbook_config.php:439
+#: admin/admin_lookbook_config.php:553
+msgid "Disabled"
+msgstr ""
+
+#: admin/admin_lookbook_config.php:309
+msgid "Position"
+msgstr ""
+
+#: admin/admin_lookbook_config.php:427
+msgid "LookBook Name"
+msgstr ""
+
+#: admin/admin_lookbook_config.php:444
+msgid "Product"
+msgstr ""
+
+#: admin/admin_lookbook_config.php:455
+msgid "Upload Image"
+msgstr ""
+
+#: admin/admin_lookbook_config.php:459
+msgid "Save"
+msgstr ""
+
+#: admin/admin_lookbook_config.php:461
+msgid "Cancel"
+msgstr ""
+
+#: admin/admin_lookbook_config.php:462
+msgid "Add Pin"
+msgstr ""
+
+#: admin/admin_lookbook_config.php:472
+msgid "Upload File"
+msgstr ""
+
+#: admin/admin_lookbook_config.php:536
+msgid "General Setting"
+msgstr ""
+
+#: admin/admin_lookbook_config.php:539
+msgid "Slider Setting"
+msgstr ""
+
+#: admin/admin_lookbook_config.php:558
+msgid "Show pins"
+msgstr ""
+
+#: admin/admin_lookbook_config.php:561
+msgid "Click"
+msgstr ""
+
+#: admin/admin_lookbook_config.php:562
+msgid "Hover"
+msgstr ""
+
+#: admin/admin_lookbook_config.php:567
+msgid "Minimal Image Width"
+msgstr ""
+
+#: admin/admin_lookbook_config.php:571 admin/admin_lookbook_config.php:580
+#: admin/admin_lookbook_config.php:589 admin/admin_lookbook_config.php:598
+#: admin/admin_lookbook_config.php:607 admin/admin_lookbook_config.php:616
+#: admin/admin_lookbook_config.php:657 admin/admin_lookbook_config.php:666
+msgid "pixel"
+msgstr ""
+
+#: admin/admin_lookbook_config.php:576
+msgid "Minimal Image Height"
+msgstr ""
+
+#: admin/admin_lookbook_config.php:585
+msgid "Maximal Image Width"
+msgstr ""
+
+#: admin/admin_lookbook_config.php:594
+msgid "Maximal Image Height"
+msgstr ""
+
+#: admin/admin_lookbook_config.php:603
+msgid "Width of Pin"
+msgstr ""
+
+#: admin/admin_lookbook_config.php:612
+msgid "Height of Pin"
+msgstr ""
+
+#: admin/admin_lookbook_config.php:621
+msgid "Default text for Pin"
+msgstr ""
+
+#: admin/admin_lookbook_config.php:629
+msgid "Use Product Price for Pin text"
+msgstr ""
+
+#: admin/admin_lookbook_config.php:637
+msgid "Background color for Pin"
+msgstr ""
+
+#: admin/admin_lookbook_config.php:645
+msgid "Text color for Pin"
+msgstr ""
+
+#: admin/admin_lookbook_config.php:653
+msgid "Width of Product Image on Popup"
+msgstr ""
+
+#: admin/admin_lookbook_config.php:662
+msgid "Height of Product Image on Popup"
+msgstr ""
+
+#: inc/widget.php:14 inc/widget.php:71
+msgid "Sw Lookbook"
+msgstr ""
+
+#: inc/widget.php:20
+msgid "Sw lookbook widget"
+msgstr ""
+
+#: inc/widget.php:61
+msgid "All slide"
+msgstr ""
+
+#: inc/widget.php:75
+msgid "SW Shortcodes"
+msgstr ""
+
+#: inc/widget.php:81 inc/widget.php:85 inc/widget.php:137
+msgid "Title"
+msgstr ""
+
+#: inc/widget.php:91 inc/widget.php:155
+msgid "Slide"
+msgstr ""
+
+#: inc/widget.php:95
+msgid "Select Slide"
+msgstr ""
+
+#: inc/widget.php:101
+msgid "Style"
+msgstr ""
+
+#: inc/widget.php:105
+msgid "Select Style"
+msgstr ""
+
+#: inc/widget.php:111 inc/widget.php:115
+msgid "Layout"
+msgstr ""
+
+#: inc/widget.php:143
+msgid "Template"
+msgstr ""
+
+#: inc/widget.php:150
+msgid "Default"
+msgstr ""
+
+#: inc/widget.php:265 inc/widget.php:335
+msgid "Detail"
+msgstr ""
+
+#: inc/widget.php:267 inc/widget.php:337
+msgid "Add to cart"
+msgstr ""
+
+#: inc/widget.php:340
+msgid "Close"
+msgstr ""

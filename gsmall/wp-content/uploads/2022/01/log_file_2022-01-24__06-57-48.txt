@@ -1,0 +1,335 @@
+
+---Downloaded files---
+The import files for: #2 Marketplace were successfully downloaded!
+Initial max execution time = 36000
+Files info:
+Site URL = http://gsmall.test
+Data file = D:\laragon\www\gsmall/wp-content/themes/emarket/lib/import/demo-2/demo-content.xml
+Widget file = D:\laragon\www\gsmall/wp-content/themes/emarket/lib/import/demo-2/widgets.json
+Customizer file = not defined!
+Options files:
+emarket_theme -> D:\laragon\www\gsmall/wp-content/themes/emarket/lib/import/demo-2/theme_options.txt 
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[ERROR] Failed to import "athlete" (Media)
+[ERROR] Failed to import "girl-morning-uses-perfume-around-her-neck_8353-5683" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[ERROR] Failed to import "athlete" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[ERROR] Failed to import "athlete" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[ERROR] Failed to import "athlete" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[ERROR] Failed to import "athlete" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[ERROR] Failed to import "athlete" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[ERROR] Failed to import "athlete" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[ERROR] Failed to import "athlete" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[ERROR] Failed to import "athlete" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[ERROR] Failed to import "athlete" (Media)
+[ERROR] Failed to import "girl-morning-uses-perfume-around-her-neck_8353-5683" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[ERROR] Failed to import "athlete" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[ERROR] Failed to import "athlete" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[ERROR] Failed to import "athlete" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[ERROR] Failed to import "athlete" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[ERROR] Failed to import "athlete" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[ERROR] Failed to import "athlete" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[ERROR] Failed to import "athlete" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[ERROR] Failed to import "athlete" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[ERROR] Failed to import "athlete" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[ERROR] Failed to import "athlete" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[ERROR] Failed to import "athlete" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[ERROR] Failed to import "athlete" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[ERROR] Failed to import "athlete" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[ERROR] Failed to import "athlete" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[ERROR] Failed to import "athlete" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[ERROR] Failed to import "athlete" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[ERROR] Failed to import "athlete" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[ERROR] Failed to import "athlete" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[ERROR] Failed to import "athlete" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[ERROR] Failed to import "athlete" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[ERROR] Failed to import "athlete" (Media)
+[ERROR] Failed to import "girl-morning-uses-perfume-around-her-neck_8353-5683" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[ERROR] Failed to import "athlete" (Media)
+[ERROR] Failed to import "girl-morning-uses-perfume-around-her-neck_8353-5683" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[ERROR] Failed to import "athlete" (Media)
+[ERROR] Failed to import "girl-morning-uses-perfume-around-her-neck_8353-5683" (Media)
+

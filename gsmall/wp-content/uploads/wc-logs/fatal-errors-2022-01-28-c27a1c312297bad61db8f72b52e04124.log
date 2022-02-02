@@ -1,0 +1,57 @@
+2022-01-28T07:49:20+00:00 CRITICAL Maximum execution time of 180 seconds exceeded di D:\laragon\www\gsmall\wp-includes\Requests\Transport\cURL.php pada baris 165
+
+2022-01-28T08:10:13+00:00 CRITICAL Uncaught Error: Call to a member function get_sku() on bool in D:\laragon\www\gsmall\wp-content\themes\emarket\lib\woocommerce-hook.php:910
+Stack trace:
+#0 D:\laragon\www\gsmall\wp-includes\shortcodes.php(356): emarket_get_brand('', '', 'emarket_brand')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 D:\laragon\www\gsmall\wp-includes\shortcodes.php(228): preg_replace_callback('/\\[(\\[?)(emarke...', 'do_shortcode_ta...', '[emarket_brand]')
+#3 D:\laragon\www\gsmall\wp-content\plugins\elementor\includes\widgets\shortcode.php(130): do_shortcode('[emarket_brand]')
+#4 D:\laragon\www\gsmall\wp-content\plugins\elementor\includes\base\controls-stack.php(2179): Elementor\Widget_Shortcode->render()
+#5 D:\laragon\www\gsmall\wp-content\plugins\elementor\includes\base\controls-stack.php(2187): Elementor\Controls_Stack->render_static()
+#6 D:\laragon\www\gsmall\wp-content\plugins\elementor\includes\base\widget-base.php(584): Elementor\Controls_Stack->render_by_mode()
+#7 D:\laragon\www\gsmall\wp-content\plugins\elementor\ di D:\laragon\www\gsmall\wp-content\themes\emarket\lib\woocommerce-hook.php pada baris 910
+
+2022-01-28T08:10:13+00:00 CRITICAL Uncaught Error: Call to a member function get_sku() on bool in D:\laragon\www\gsmall\wp-content\themes\emarket\lib\woocommerce-hook.php:910
+Stack trace:
+#0 D:\laragon\www\gsmall\wp-includes\shortcodes.php(356): emarket_get_brand('', '', 'emarket_brand')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 D:\laragon\www\gsmall\wp-includes\shortcodes.php(228): preg_replace_callback('/\\[(\\[?)(emarke...', 'do_shortcode_ta...', '[emarket_brand]')
+#3 D:\laragon\www\gsmall\wp-content\plugins\elementor\includes\widgets\shortcode.php(130): do_shortcode('[emarket_brand]')
+#4 D:\laragon\www\gsmall\wp-content\plugins\elementor\includes\base\controls-stack.php(2179): Elementor\Widget_Shortcode->render()
+#5 D:\laragon\www\gsmall\wp-content\plugins\elementor\includes\base\controls-stack.php(2187): Elementor\Controls_Stack->render_static()
+#6 D:\laragon\www\gsmall\wp-content\plugins\elementor\includes\base\widget-base.php(584): Elementor\Controls_Stack->render_by_mode()
+#7 D:\laragon\www\gsmall\wp-content\plugins\elementor\ di D:\laragon\www\gsmall\wp-content\themes\emarket\lib\woocommerce-hook.php pada baris 910
+
+2022-01-28T08:10:13+00:00 CRITICAL Uncaught Error: Call to a member function get_sku() on bool in D:\laragon\www\gsmall\wp-content\themes\emarket\lib\woocommerce-hook.php:910
+Stack trace:
+#0 D:\laragon\www\gsmall\wp-includes\shortcodes.php(356): emarket_get_brand('', '', 'emarket_brand')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 D:\laragon\www\gsmall\wp-includes\shortcodes.php(228): preg_replace_callback('/\\[(\\[?)(emarke...', 'do_shortcode_ta...', '[emarket_brand]')
+#3 D:\laragon\www\gsmall\wp-content\plugins\elementor\includes\widgets\shortcode.php(130): do_shortcode('[emarket_brand]')
+#4 D:\laragon\www\gsmall\wp-content\plugins\elementor\includes\base\controls-stack.php(2179): Elementor\Widget_Shortcode->render()
+#5 D:\laragon\www\gsmall\wp-content\plugins\elementor\includes\base\controls-stack.php(2187): Elementor\Controls_Stack->render_static()
+#6 D:\laragon\www\gsmall\wp-content\plugins\elementor\includes\base\widget-base.php(584): Elementor\Controls_Stack->render_by_mode()
+#7 D:\laragon\www\gsmall\wp-content\plugins\elementor\ di D:\laragon\www\gsmall\wp-content\themes\emarket\lib\woocommerce-hook.php pada baris 910
+
+2022-01-28T08:10:13+00:00 CRITICAL Uncaught Error: Call to a member function get_sku() on bool in D:\laragon\www\gsmall\wp-content\themes\emarket\lib\woocommerce-hook.php:910
+Stack trace:
+#0 D:\laragon\www\gsmall\wp-includes\shortcodes.php(356): emarket_get_brand('', '', 'emarket_brand')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 D:\laragon\www\gsmall\wp-includes\shortcodes.php(228): preg_replace_callback('/\\[(\\[?)(emarke...', 'do_shortcode_ta...', '[emarket_brand]')
+#3 D:\laragon\www\gsmall\wp-content\plugins\elementor\includes\widgets\shortcode.php(130): do_shortcode('[emarket_brand]')
+#4 D:\laragon\www\gsmall\wp-content\plugins\elementor\includes\base\controls-stack.php(2179): Elementor\Widget_Shortcode->render()
+#5 D:\laragon\www\gsmall\wp-content\plugins\elementor\includes\base\controls-stack.php(2187): Elementor\Controls_Stack->render_static()
+#6 D:\laragon\www\gsmall\wp-content\plugins\elementor\includes\base\widget-base.php(584): Elementor\Controls_Stack->render_by_mode()
+#7 D:\laragon\www\gsmall\wp-content\plugins\elementor\ di D:\laragon\www\gsmall\wp-content\themes\emarket\lib\woocommerce-hook.php pada baris 910
+
+2022-01-28T08:10:13+00:00 CRITICAL Uncaught Error: Call to a member function get_sku() on bool in D:\laragon\www\gsmall\wp-content\themes\emarket\lib\woocommerce-hook.php:910
+Stack trace:
+#0 D:\laragon\www\gsmall\wp-includes\shortcodes.php(356): emarket_get_brand('', '', 'emarket_brand')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 D:\laragon\www\gsmall\wp-includes\shortcodes.php(228): preg_replace_callback('/\\[(\\[?)(emarke...', 'do_shortcode_ta...', '[emarket_brand]')
+#3 D:\laragon\www\gsmall\wp-content\plugins\elementor\includes\widgets\shortcode.php(130): do_shortcode('[emarket_brand]')
+#4 D:\laragon\www\gsmall\wp-content\plugins\elementor\includes\base\controls-stack.php(2179): Elementor\Widget_Shortcode->render()
+#5 D:\laragon\www\gsmall\wp-content\plugins\elementor\includes\base\controls-stack.php(2187): Elementor\Controls_Stack->render_static()
+#6 D:\laragon\www\gsmall\wp-content\plugins\elementor\includes\base\widget-base.php(584): Elementor\Controls_Stack->render_by_mode()
+#7 D:\laragon\www\gsmall\wp-content\plugins\elementor\ di D:\laragon\www\gsmall\wp-content\themes\emarket\lib\woocommerce-hook.php pada baris 910
+
