@@ -1,0 +1,41 @@
+<?php return array(
+    'root' => array(
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'type' => 'library',
+        'install_path' => __DIR__ . '/../../',
+        'aliases' => array(),
+        'reference' => '79fd47cdcb1440a56d634577f0151c00d583397a',
+        'name' => 'yukdiorder/gsmall',
+        'dev' => true,
+    ),
+    'versions' => array(
+        'htmlburger/carbon-fields' => array(
+            'pretty_version' => 'v3.3.2',
+            'version' => '3.3.2.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../htmlburger/carbon-fields',
+            'aliases' => array(),
+            'reference' => 'dd5663e14c6db365323b688dbae1cfbeaf14bee7',
+            'dev_requirement' => false,
+        ),
+        'yahnis-elsts/plugin-update-checker' => array(
+            'pretty_version' => 'v4.11',
+            'version' => '4.11.0.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../yahnis-elsts/plugin-update-checker',
+            'aliases' => array(),
+            'reference' => '3155f2d3f1ca5e7ed3f25b256f020e370515af43',
+            'dev_requirement' => false,
+        ),
+        'yukdiorder/gsmall' => array(
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../../',
+            'aliases' => array(),
+            'reference' => '79fd47cdcb1440a56d634577f0151c00d583397a',
+            'dev_requirement' => false,
+        ),
+    ),
+);

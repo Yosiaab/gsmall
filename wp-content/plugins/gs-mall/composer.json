@@ -1,0 +1,19 @@
+{
+    "name": "yukdiorder/gsmall",
+    "description": "plugin yukdiorder",
+    "autoload": {
+        "psr-4": {
+            "Yukdiorder\\Gsmall\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Muhwildanferdiansyah",
+            "email": "73091498+Muhwildanferdiansyah@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "yahnis-elsts/plugin-update-checker": "^4.11",
+        "htmlburger/carbon-fields": "^3.3"
+    }
+}
